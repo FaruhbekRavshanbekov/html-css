@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    background-color: blue;
+    border: 5px solid red;
+}
+div{
+
+    width: 100px;
+    height: 100px;
+}
+.box{
+
+    border: 2px dashed black;
+}
+.box2{
+
+    border: 2px dotted blue;
+}
+.box3{
+ 
+    border: 2px solid red;
+}
+.box4{
+
+    border: 2px double  green;
+}
+.box5{
+    border: 2px groove orange;
+}
