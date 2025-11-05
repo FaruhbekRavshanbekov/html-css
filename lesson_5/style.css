@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: grey;
+}
+.continer{
+    margin: 50px auto;
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    border-radius: 10px;
+}
+.box{
+    margin: 25px auto;
+    width: 350px;
+    height: 350px;
+    background-color: rgba(0, 251, 255, 0.291);
+}
+.box2{
+    margin: 0px auto;
+    padding: 10px;
+    width: 290px;
+    height: 290px;
+    background-color: rgba(28, 209, 148, 0.329);
+}
