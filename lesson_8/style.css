@@ -1,0 +1,19 @@
+h2{
+    background-color: blueviolet;
+    color: rgba(153, 255, 0, 0.653);
+    font-weight: 900;
+}
+p{
+    color: blueviolet;
+}
+#lorem{
+    color: rgb(78, 123, 11);
+}
+#loret{
+    background-color: yellow;
+    color: red;
+}
+#loren{
+    background-color: yellow;
+    color: red;
+}
