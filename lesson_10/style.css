@@ -1,0 +1,37 @@
+.box{
+    position: absolute;
+    left:  0;
+    bottom: 0;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+.continer{
+    position: relative;
+    height: 80vh;
+    border: 2px solid black;
+}
+.box2{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+.box3{
+     position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.box4{
+    position: absolute;
+    right: 0;
+    bottom: 248px;
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
