@@ -1,0 +1,26 @@
+body{
+    background-color: yellow;
+    font-family: monospace;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+button{
+    background-color: black;
+    color: white;
+}
+.continer{
+    position: relative;
+}
+.box1{
+    position: absolute;
+    width: 60%;
+}
+.box2{
+    padding: 0;
+    position: absolute;
+    top: 20px;
+    right: 50px;
+    background-color: white;
+}
