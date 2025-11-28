@@ -1,0 +1,22 @@
+.box1{
+    background-color: pink;
+    height: 200px;
+    width: 200px;
+}
+.box2{
+    background-color: greenyellow;
+    width: 500px;
+    height: 500px;
+    top: 40px;
+    left: 40px;
+    position: absolute;
+}
+.box3{
+    background-color: rgb(255, 254, 254);
+    width: 200px;
+    height: 200px;
+    z-index: 1;
+    position: absolute;
+    top: 70px;
+    left: 70px;
+}
