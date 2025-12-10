@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 35px;
+}
+
+.logo{
+    font-size: 25px;
+    font-weight: bold;
+    color: blue;
+    font-family: monospace;
+}
+
+a{
+    text-decoration: none;
+    margin-left: 15px;
+    font-size: 18px;
+    color: black;
+}
+
+.boshsahifa{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #4488e8;
+    height: 40vh;
+    padding: 10px;
+    row-gap: 25px;
+}
+
+button{
+    height: 45px;
+    width: 150px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(107, 217, 101);
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
+
+.box{
+    display: flex;
+    color: blue;
+}
