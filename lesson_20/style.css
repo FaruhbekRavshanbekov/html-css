@@ -1,0 +1,30 @@
+.box{
+    text-align: center;
+    font-size: 30px;
+    width: 100px;
+    line-height: 100px;
+    background-color: blue;
+    transition: all 1s ease-in;
+}
+
+.red:hover{
+    transform: rotate(360deg);
+    background-color: brown;
+    color: white;
+}
+
+.blue:hover{
+    transform: translate(440px, -100px) rotate(360deg);
+    background-color: green;
+    color: white;
+}
+.grey:hover{
+    transform: translate(0px, 340px) rotate(360deg);
+    background-color: rgb(255, 0, 251);
+    color: white;
+}
+.green:hover{
+    transform: translate(440px, 240px) rotate(360deg);
+    background-color: rgb(139, 53, 0);
+    color: white;
+}
